@@ -15,8 +15,9 @@
 
 <a href="https://www.linkedin.com/in/devtanuj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devtanuj/" height="30" width="40" /></a>
 </p>
+<h3 align="center">Hacktoberfest badge!</h3>
 <p>
-   <img src="https://www.holopin.io/@tanuj"></p>
+   <img src="https://holopin.me/tanuj"></p>
 <p align="center"><img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanujkumar70&show_icons=true&locale=en&layout=compact&theme=jolly" />
    
