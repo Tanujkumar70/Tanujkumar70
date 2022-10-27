@@ -11,14 +11,16 @@
  <a href="https://www.hackerrank.com/tanujkumar84743/hackos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="TanujKumar" height="30" width="40" /></a>
 </p>
  <p align="left">
+    
+
 <a href="https://www.linkedin.com/in/devtanuj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devtanuj/" height="30" width="40" /></a>
 </p>
-
+<p>
+   <img src="https://www.holopin.io/@tanuj"></p>
 <p align="center"><img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanujkumar70&show_icons=true&locale=en&layout=compact&theme=jolly" />
    
    
-   <img src=" https://www.holopin.io/@tanuj"/>
 </p>
 <hr>
 <a href="https://activity-graph.herokuapp.com/graph?username=Tanujkumar70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"
