@@ -16,6 +16,9 @@
 
 <p align="center"><img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanujkumar70&show_icons=true&locale=en&layout=compact&theme=jolly" />
+   
+   
+   <img src=" https://www.holopin.io/@tanuj"/>
 </p>
 <hr>
 <a href="https://activity-graph.herokuapp.com/graph?username=Tanujkumar70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"
